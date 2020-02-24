@@ -154,6 +154,8 @@ div.col-sm-3 div.profile-about {
   .fixed-condition {
     position: fixed;
     max-width: 255px;
+	background:#FFFFFF
+	padding: 10px 10px 10px 10px;
   }
 }
 @media (max-width: 768px) {
