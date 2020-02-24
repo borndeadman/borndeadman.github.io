@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto Condensed", Arial, sans-serif;
-  background: url("/static/img/subtle_dots.png");
+  background: url("/static/img/tiledbackground.png");
   line-height: 1.5em;
   font-weight: 300;
   font-size: 16px;
@@ -16,7 +16,7 @@ hr {
 span.time, span.categories {
   color: #ADADAD;
   margin-bottom: 5px;
-  font-size: 11px;
+  font-size: 15px;
 }
 h1, h2, h3 {
   color: #696969;
